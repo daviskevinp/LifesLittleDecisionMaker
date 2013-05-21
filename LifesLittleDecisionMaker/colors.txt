@@ -1,0 +1,31 @@
+orange
+ff6700
+light orange
+ffa466
+
+blue
+0caabf
+light blue
+49bfcf
+
+green
+BACE28
+light green
+D6E27E
+
+blue
+3842FF
+light blue
+5694FF
+
+purple
+b43c96
+light purple
+DA9ECB
+
+red
+EF3E42
+light red
+F58B8E
+
+
